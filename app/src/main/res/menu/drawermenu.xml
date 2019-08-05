@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/eps"
+        android:icon="@drawable/baseline_backup_black_24dp"
+        android:title="EPS" />
+    <item
+        android:id="@+id/rps"
+        android:icon="@drawable/baseline_redeem_black_24dp"
+        android:title="RPS" />
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/baseline_group_work_black_24dp"
+        android:title="Account" />
+    <item
+        android:id="@+id/email"
+        android:icon="@drawable/baseline_email_black_24dp"
+        android:title="Email" />
+    <item
+        android:id="@+id/location"
+        android:icon="@drawable/baseline_location_on_black_24dp"
+        android:title="Location" />
+    <item
+        android:id="@+id/department"
+        android:icon="@drawable/baseline_group_add_black_24dp"
+        android:title="Department" />
+    <item
+        android:id="@+id/phone"
+        android:icon="@drawable/baseline_phone_android_black_24dp"
+        android:title="Phone" />
+    <item
+        android:id="@+id/status"
+        android:icon="@drawable/baseline_check_box_black_24dp"
+        android:title="Status" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/baseline_toggle_off_black_24dp"
+        android:title="Logout" />
+</menu>
