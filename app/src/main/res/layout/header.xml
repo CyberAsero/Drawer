@@ -23,7 +23,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="sarrahdoe@gmail.com"
-        android:textColor="@color/colorWhite"
-        android:textStyle="bold" />
+        android:textColor="@color/colorWhite" />
 
 </LinearLayout>
